@@ -150,6 +150,7 @@ ul {
   margin: 60px auto;
   padding: 30px 60px;
   gap: 50px;
+  border-radius: 8px;
 }
 
 .sign-up-button {
