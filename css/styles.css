@@ -4,7 +4,6 @@ a,
   font-size: 18px;
 }
 
-
 button,
 .sign-up {
   background-color: #3882f6;
@@ -46,6 +45,17 @@ ul {
 .quote-text {
   font-size: 36px;
   color: #1f2937;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-links {
+  display: flex;
+  gap: 16px;
 }
 
 .header-logo {
