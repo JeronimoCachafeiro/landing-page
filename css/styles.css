@@ -4,6 +4,7 @@ a,
   font-size: 18px;
 }
 
+
 button,
 .sign-up {
   background-color: #3882f6;
@@ -15,6 +16,14 @@ button,
 .sign-up-text,
 .sign-up-title {
   color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
 }
 
 .footer,
