@@ -127,6 +127,28 @@ ul {
   justify-content: center;
 }
 
+.sign-up {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 60px auto;
+  padding: 30px 60px;
+  gap: 50px;
+}
+
+.sign-up-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.sign-up-text {
+  margin-block-start: 0;
+}
+
+.sign-up-title {
+  margin-block-end: 0;
+}
+
 .quote {
   background-color: #e5e7eb;
   display: flex;
