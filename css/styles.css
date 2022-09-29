@@ -98,9 +98,9 @@ ul {
 }
 
 .information {
+  align-items: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
   padding-bottom: 60px;
 }
 
@@ -111,8 +111,8 @@ ul {
 
 .information-image-placeholder {
   background-color: #3882f6;
-  width: 100px;
   height: 100px;
+  width: 100px;
 }
 
 .information-image-placeholder-text {
@@ -121,21 +121,27 @@ ul {
 }
 
 .information-item {
+  align-items: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
 }
 
 .quote {
   background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  padding: 60px;
 }
 
 .quote-attribution {
   font-weight: 700;
+  margin-left: auto;
+  padding-right: 120px;
 }
 
 .quote-text {
   font-style: italic;
   font-weight: 300;
+  padding: 0 100px;
 }
