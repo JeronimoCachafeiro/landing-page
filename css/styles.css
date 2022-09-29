@@ -29,6 +29,12 @@ a {
   text-decoration: none;
 }
 
+button {
+  padding: 5px 25px;
+  border-radius: 6px;
+  
+}
+
 ul {
   list-style: none;
 }
@@ -99,6 +105,10 @@ ul {
   width: 400px;
 }
 
+.hero-sign-up-button {
+  border: 1px solid #3882f6;
+}
+
 .hero-title {
   font-size: 48px;
 }
@@ -140,6 +150,10 @@ ul {
   margin: 60px auto;
   padding: 30px 60px;
   gap: 50px;
+}
+
+.sign-up-button {
+  border: 1px solid white;
 }
 
 .sign-up-content {
